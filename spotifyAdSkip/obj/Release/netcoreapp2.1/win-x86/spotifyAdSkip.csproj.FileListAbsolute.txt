@@ -1,0 +1,14 @@
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\spotifyAdSkip.exe
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\spotifyAdSkip.deps.json
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\spotifyAdSkip.runtimeconfig.json
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\spotifyAdSkip.runtimeconfig.dev.json
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\spotifyAdSkip.dll
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\win-x86\spotifyAdSkip.pdb
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\win-x86\spotifyAdSkip.csprojAssemblyReference.cache
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\win-x86\spotifyAdSkip.csproj.CoreCompileInputs.cache
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\win-x86\spotifyAdSkip.AssemblyInfoInputs.cache
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\win-x86\spotifyAdSkip.AssemblyInfo.cs
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\win-x86\spotifyAdSkip.dll
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\win-x86\spotifyAdSkip.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "spotifyAdSkip/1.0.0": {
+        "runtime": {
+          "spotifyAdSkip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "spotifyAdSkip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

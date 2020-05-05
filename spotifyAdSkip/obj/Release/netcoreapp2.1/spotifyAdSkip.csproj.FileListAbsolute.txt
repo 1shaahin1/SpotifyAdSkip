@@ -1,0 +1,10 @@
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\spotifyAdSkip.deps.json
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\spotifyAdSkip.runtimeconfig.json
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\spotifyAdSkip.runtimeconfig.dev.json
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\spotifyAdSkip.dll
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\bin\Release\netcoreapp2.1\spotifyAdSkip.pdb
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\spotifyAdSkip.csprojAssemblyReference.cache
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\spotifyAdSkip.AssemblyInfoInputs.cache
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\spotifyAdSkip.AssemblyInfo.cs
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\spotifyAdSkip.dll
+C:\Users\sh.shemshian\Desktop\spotifyAdSkip\spotifyAdSkip\spotifyAdSkip\obj\Release\netcoreapp2.1\spotifyAdSkip.pdb
